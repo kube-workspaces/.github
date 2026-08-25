@@ -21,6 +21,7 @@ Kube Workspaces provides browser-accessible development environments running as 
 | [proxy](https://github.com/kube-workspaces/proxy) | Reverse proxy (Go) — routes browser traffic to workspace pods |
 | [frontend](https://github.com/kube-workspaces/frontend) | Web UI (Next.js, TypeScript) — workspace management dashboard |
 | [deploy](https://github.com/kube-workspaces/deploy) | Deployment manifests (Helm, Kustomize, ArgoCD) and documentation |
+| [image-catalog](https://github.com/kube-workspaces/image-catalog) | Catalog of `Image` CRs — source of truth for available workspace images |
 
 ## Architecture
 
